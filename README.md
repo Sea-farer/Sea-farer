@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sea-farer
+- 👀 I’m interested in physics, development, and engineering.
+- ⚡ Fun fact: I love playing video games
