@@ -12,9 +12,6 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/Sea-farer">
-  <a href="https://github.com/Sea-farer?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Sea-farer?label=Stars&style=social" alt="GitHub Stars">
-  </a>
   <a href="https://linkedin.com/in/mohid-m">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
