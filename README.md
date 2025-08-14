@@ -43,14 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sea-farer&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sea-farer&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
 ### 🌱 Currently Learning
 - Advanced **quantum mechanics** & **relativity**
 - **High-performance computing** for physics research
@@ -65,7 +57,3 @@
 </p>
 
 ---
-
-<p align="center">
-  ⚡ Fun fact: I’d have loved to witness the Voyager spacecraft launch, just for the engineering marvel and the Golden Record.
-</p>
