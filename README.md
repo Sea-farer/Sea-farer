@@ -32,7 +32,6 @@
 
 ### 🚀 Projects & Research
 - 🧪 **Computational Neuroscience Internship** – Spike sorting & neural signal analysis  
-- 🎮 **Soul Shattered** – Pixel-art dungeon crawler with corruption mechanics  
 - 📈 **Data Visualization Tools** – Custom plotting utilities for research datasets  
 - 🔬 **Physics Simulations** – N-body problem & Ising model experiments  
 
