@@ -12,15 +12,13 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/Sea-farer">
-    <img src="https://img.shields.io/github/followers/Sea-farer?label=Followers&style=social" alt="GitHub Followers">
-  </a>
   <a href="https://github.com/Sea-farer?tab=repositories">
     <img src="https://img.shields.io/github/stars/Sea-farer?label=Stars&style=social" alt="GitHub Stars">
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/mohid-m">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:mohid.malik944@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
