@@ -26,7 +26,7 @@
 ---
 
 ### 🧑‍🔬 About Me
-- 🎓 **First-year Physics major** at Princeton University  
+- 🎓 **Physics major** at Princeton University  
 - 🧠 Passionate about **theoretical physics, AI, and computational neuroscience**  
 - 🛠 Skilled in **Python, MATLAB, and data visualization**  
 - 📚 Lifelong learner who enjoys merging **science and code** to solve real-world problems
