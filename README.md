@@ -1,6 +1,5 @@
 <!-- Intro Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Welcome+to+My+GitHub+Profile" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/ccb47cbc-5174-49fe-9b26-2f175cac9c2e" alt="Banner">
 </p>
 
 <!-- Greeting -->
