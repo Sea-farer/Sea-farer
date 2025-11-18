@@ -1,5 +1,5 @@
 <!-- Intro Banner -->
-  <img src="https://github.com/user-attachments/assets/a708f2f3-bd9a-483e-88dc-ab3ac09ea458" alt="Banner">
+  <img src="https://github.com/user-attachments/assets/2008fdeb-2054-44b9-8c4f-506182c04289" alt="Banner">
 </p>
 
 <!-- Greeting -->
