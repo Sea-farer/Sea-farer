@@ -14,9 +14,8 @@
 
 ### 🧑‍🔬 About Me
 - 🎓 **CS major** at Princeton University  
-- 🧠 Passionate about **quantum computing, AI, and computational neuroscience**  
-- 🛠 Skilled in **Python, Java, MATLAB, and data visualization**  
-- 📚 Lifelong learner who enjoys merging **science and code** to solve real-world problems
+- 🧠 Passionate about **quantum computing, AI, and mathematics**
+- 🛠 Skilled in **Python, Java, MATLAB, and data visualization**
 
 ---
 
