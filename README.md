@@ -4,7 +4,6 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi there 👋, I'm Mohid</h1>
-<h3 align="center">CS @ Princeton • Developer • Researcher</h3>
 
 ---
 
