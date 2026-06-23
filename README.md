@@ -35,9 +35,8 @@
 ---
 
 ### 🌱 Currently Learning
-- Advanced **quantum mechanics** & **relativity**
 - **High-performance computing**
-- Data Structure and Aglorithms
+- **Assembly** and **C**
 ---
 
 ### 📫 Connect with Me
