@@ -5,9 +5,7 @@
 <!-- Greeting -->
 <h1 align="center">Hi there 👋, I'm Mohid</h1>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Sea-farer">
+---
 
 ### 🧑‍🔬 About Me
 - 🎓 **CS major** at Princeton University  
