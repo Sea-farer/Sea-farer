@@ -3,7 +3,7 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi there 👋, I'm Mohid</h1>
+<h1 align="center">Hi there 👋, I'm Mohid
 
 ---
 
