@@ -1,7 +1,3 @@
-<!-- Intro Banner -->
-<img src="https://github.com/user-attachments/assets/7ee0739c-dd94-4bed-9b41-ee88f1c52d2a" alt="Banner">
-</p>
-
 <!-- Greeting -->
 <h1 align="center">Hi there 👋, I'm Mohid
 
