@@ -19,7 +19,7 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,java,c,cpp,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,java,c,,git,linux,bash,docker,pytorch" />
 </p>
 
 ---
