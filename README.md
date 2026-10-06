@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 Projects & Research
-- ⚙️ **Autonomous LiDAR SLAM Drone** – Autonomous drone leveraging GPU-accelerated LiDAR SLAM for real-time spatial awareness 
+- ⚙️ **Autonomous LiDAR SLAM Drone** – Autonomous drone leveraging LiDAR SLAM for real-time spatial awareness 
 - 🧪 **Computational Neuroscience Internship** – Spike sorting & neural signal analysis  
 - 📈 **Data Visualization Tools** – Custom plotting utilities for research datasets  
 
